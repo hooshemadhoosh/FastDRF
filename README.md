@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://worksolutions.ru/uploads/large_D_vs_F_a6becaff38.jpg" alt="FastDRF Logo" width="400"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hooshemadhoosh/FastDRF">
+    <img src="https://img.shields.io/github/stars/hooshemadhoosh/FastDRF?style=social" alt="GitHub Stars"/>
+  </a>
+  <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python Version"/>
+  <img src="https://img.shields.io/github/license/hooshemadhoosh/FastDRF" alt="License"/>
+</p>
+
 # FastDRF
 FastDRF: Migrating from Django Rest Framework to FastAPI template with even more flexibility.
 
